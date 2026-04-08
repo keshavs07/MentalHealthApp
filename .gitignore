@@ -132,3 +132,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .venv-3.10/
+sentiment_model/model.safetensors
